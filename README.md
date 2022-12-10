@@ -1,34 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# **INSPIRE**
 
-## Getting Started
+Inspire is a fully fledged modern full-stack social media app built with various modern technologies and it includes some amazing features such as authentication, creating pins, saving pins, the ability to comment on each post and realtime notifications. It is a NextJS app and it uses some incredible built-in NextJS features such as server-side rendering and image optimization. <a href="https://inspire-app.vercel.app" target="_blank">Visit</a>
 
-First, run the development server:
+&emsp;
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+![demo image](./public/demo.jpg)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+&emsp;
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## **ABOUT**
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+The main motive behind creating this app was to create a platform which is not only aesthetically pleasing, but to also provide a top notch user experience. The app is well optimized and it makes the best usage of best react practices and all the modern technologies that were used. The technologies were chosen based on the requirements.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+---
 
-## Learn More
+<br />
 
-To learn more about Next.js, take a look at the following resources:
+## **FEATURES**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### **1. AUTHENTICATION**
+   - Authentication with email & password
+   - Authentication with Google
+   - Authentication with Facebook
+   - Ability to update email adress
+   - Ability to update password
+   - Ability to delete account if signed up with email & password
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+#### **2. PIN**
+   - Create a pin
+   - Save a pin
+   - Delete your pin
+   - Download pins
+   - Share pins
 
-## Deploy on Vercel
+#### **3. INFINITE SCROLLING**
+#### **4. COMMENT SECTION**
+#### **5. SEARCHING ABILITIES**
+#### **6. REALTIME NOTIFICATIONS**
+#### **7. DARK MODE**
+#### **8. FULLY RESPONSIVE**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<br />
+
+## **TOOLS & TECHNOLOGIES USED**
+- NextJS
+- Redux Toolkit
+- Material UI
+- Firebase
+- Sanity
+- React Hook Form
+- Yup Schema Validation
+- MomentJS
+- NProgress
+- Axios
+- UUID
+- React Loader Spinner
+- Socket IO Client
