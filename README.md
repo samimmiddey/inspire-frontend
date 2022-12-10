@@ -40,9 +40,12 @@ The main motive behind creating this app was to create a platform which is not o
 - Sanity
 - React Hook Form
 - Yup Schema Validation
+- Socket IO Client
+- React Icons
+- React Infinite Scroller
+- React Loader Spinner
+- Framer Motion
 - MomentJS
 - NProgress
 - Axios
 - UUID
-- React Loader Spinner
-- Socket IO Client
