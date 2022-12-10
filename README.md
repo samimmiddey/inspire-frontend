@@ -2,19 +2,11 @@
 
 Inspire is a fully fledged modern full-stack social media app built with various modern technologies and it includes some amazing features such as authentication, creating pins, saving pins, the ability to comment on each post and realtime notifications. It is a NextJS app and it uses some incredible built-in NextJS features such as server-side rendering and image optimization. <a href="https://inspire-app.vercel.app" target="_blank">Visit</a>
 
-&emsp;
-
-![demo image](./public/demo.jpg)
-
-&emsp;
+![demo image](./public/demo.png)
 
 ## **ABOUT**
 
 The main motive behind creating this app was to create a platform which is not only aesthetically pleasing, but to also provide a top notch user experience. The app is well optimized and it makes the best usage of best react practices and all the modern technologies that were used. The technologies were chosen based on the requirements.
-
----
-
-<br />
 
 ## **FEATURES**
 
@@ -39,10 +31,6 @@ The main motive behind creating this app was to create a platform which is not o
 #### **6. REALTIME NOTIFICATIONS**
 #### **7. DARK MODE**
 #### **8. FULLY RESPONSIVE**
-
----
-
-<br />
 
 ## **TOOLS & TECHNOLOGIES USED**
 - NextJS
