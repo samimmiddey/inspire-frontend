@@ -10,7 +10,7 @@ The main motive behind creating this app was to create a platform which is not o
 
 ## **FEATURES**
 
-#### **1. AUTHENTICATION**
+##### **1. AUTHENTICATION**
    - Authentication with email & password
    - Authentication with Google
    - Authentication with Facebook
@@ -18,19 +18,19 @@ The main motive behind creating this app was to create a platform which is not o
    - Ability to update password
    - Ability to delete account if signed up with email & password
 
-#### **2. PIN**
+##### **2. PIN**
    - Create a pin
    - Save a pin
    - Delete your pin
    - Download pins
    - Share pins
 
-#### **3. INFINITE SCROLLING**
-#### **4. COMMENT SECTION**
-#### **5. SEARCHING ABILITIES**
-#### **6. REALTIME NOTIFICATIONS**
-#### **7. DARK MODE**
-#### **8. FULLY RESPONSIVE**
+##### **3. INFINITE SCROLLING**
+##### **4. COMMENT SECTION**
+##### **5. SEARCHING ABILITIES**
+##### **6. REALTIME NOTIFICATIONS**
+##### **7. DARK MODE**
+##### **8. FULLY RESPONSIVE**
 
 ## **TOOLS & TECHNOLOGIES USED**
 - NextJS
